@@ -1,0 +1,7 @@
+{
+  "name": "CerebroAI",
+  "slug": "CerebroAI",
+  "expo": {
+      "newArchEnabled": true
+  }
+}
