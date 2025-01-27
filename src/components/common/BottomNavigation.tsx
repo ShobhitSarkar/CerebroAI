@@ -18,9 +18,6 @@ const BottomNavigation = ({ navigation }: Props) => {
       <TouchableOpacity onPress={() => navigation.navigate("CreateFlashcard")}>
         <Feather name="plus-square" size={24} color={colors.primary} />
       </TouchableOpacity>
-      <TouchableOpacity onPress={() => navigation.navigate("StudySession")}>
-        <Feather name="book-open" size={24} color={colors.primary} />
-      </TouchableOpacity>
     </View>
   )
 }
