@@ -59,3 +59,4 @@ coverage/
 *.key
 *.mobileprovision
 *.orig.*
+node_modules
